@@ -134,7 +134,7 @@ class _easyCodeState extends State<easyCode> {
             ),
 
         SizedBox(
-          height: 140,
+          height: 150,
 
             child: ListView.separated(
           itemCount: 11,
