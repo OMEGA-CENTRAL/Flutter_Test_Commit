@@ -14,7 +14,7 @@ List color = [Colors.black, Colors.red,
   Colors.orange, Colors.indigo, Colors.green,
   Colors.blueGrey, Colors.yellowAccent,Colors.tealAccent,
   Colors.lightGreen, Colors.pink, Colors.deepPurple,
-  Colors.blue
+
 ];
 
 var encapsulation = 1;
